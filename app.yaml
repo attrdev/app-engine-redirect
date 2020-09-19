@@ -1,0 +1,9 @@
+runtime: php74
+service: redirect
+instance_class: F1
+automatic_scaling:
+  min_instances: 0
+  max_instances: 1
+
+includes:
+  - env_variables.yaml

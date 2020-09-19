@@ -1,0 +1,3 @@
+env_variables:
+    REDIRECT_URL: https://medium.com/attraction
+    REDIRECT_RESPONSE_CODE: 301
